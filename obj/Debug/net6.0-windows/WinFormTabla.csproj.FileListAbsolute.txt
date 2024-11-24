@@ -1,0 +1,17 @@
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\bin\Debug\net6.0-windows\WinFormTabla.exe
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\bin\Debug\net6.0-windows\WinFormTabla.deps.json
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\bin\Debug\net6.0-windows\WinFormTabla.runtimeconfig.json
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\bin\Debug\net6.0-windows\WinFormTabla.dll
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\bin\Debug\net6.0-windows\WinFormTabla.pdb
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.Form1.resources
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.csproj.GenerateResource.cache
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.AssemblyInfoInputs.cache
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.AssemblyInfo.cs
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.csproj.CoreCompileInputs.cache
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.dll
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\refint\WinFormTabla.dll
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.pdb
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.genruntimeconfig.cache
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\ref\WinFormTabla.dll
+C:\Users\sh240\Documents\terSem\Programacion2\ultParc\WinFormTabla\WinFormTabla\obj\Debug\net6.0-windows\WinFormTabla.Properties.Resources.resources
